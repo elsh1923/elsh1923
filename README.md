@@ -1,63 +1,31 @@
-<h1 align="center">Hi There</h1>
+<h1 align="center">Hi, I'm Elshaday  👩‍💻</h1>
 
 <p align="center">
-  <b>Full Stack Engineer &nbsp;·&nbsp; TypeScript · Next.js · React · Node.js</b><br/>
-  <sub>Addis Ababa, Ethiopia &nbsp;|&nbsp; CS @ Addis Ababa University &nbsp;|&nbsp; Graduating 2026</sub>
+  <b>Full Stack Developer · Next.js · React · Node.js</b><br/>
+  📍 Addis Ababa, Ethiopia &nbsp;|&nbsp; CS @ Addis Ababa University &nbsp;|&nbsp; Graduating 2026
 </p>
 
 <p align="center">
-  <a href="https://portfoliowebsite-two-jet.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/elshaday-dagne-b4a6b1238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:elshadaydagne480@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://t.me/YeEl1221"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://portfoliowebsite-two-jet.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elshaday-dagne-b4a6b1238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:elshadaydagne480@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/YeEl1221"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
 
-I build production-grade web applications in TypeScript — from database schema to deployed UI.
-My work focuses on two things: **Ethiopian-language technology** that serves underrepresented communities,
-and engineering systems that are fast, maintainable, and built to scale.
+### About me
+
+Building modern, responsive, and scalable web applications — with a focus on Ethiopian-language technology and impactful digital experiences.
+
+- 🔭 Currently working on AI-powered tools for Amharic language processing
+- 🌱 Deepening expertise in RAG systems, SSR optimization, and full-stack TypeScript
+- 🇪🇹 Passionate about building digital products that serve Ethiopian and African communities
+- 💡 Fun fact: I built an AI that lets you chat with Emperor Menelik II
 
 ---
 
-### What I've shipped
-
-| | |
-|---|---|
-| **7+ production apps** | Each solving a real, named problem — not tutorial clones |
-| **SSR-first architecture** | Performance and SEO built in from day one, not bolted on later |
-| **AI/NLP for African languages** | RAG systems, speech-to-text pipelines, and interactive learning tools for Amharic and Ge'ez |
-
----
-
-### Selected work
-
-#### 🤖 [Wegie AI](https://wegie-ai-fz1a.vercel.app/)
-**Problem:** Amharic has no accessible subtitle tooling for content creators.  
-**Solution:** End-to-end pipeline — audio upload → speech-to-text → Amharic captions → exported SRT file, all in-browser.  
-`Next.js · Python · Whisper API · TypeScript`
-
-#### 🏛️ [Adwa AI](https://adwa-gamma.vercel.app/)
-**Problem:** Ethiopian history is largely inaccessible in interactive digital form.  
-**Solution:** A RAG system grounded in primary historical sources — users can chat with Emperor Menelik II and get cited, accurate answers.  
-`React · TypeScript · Groq AI · Vector search`
-
-#### 🔤 [Agazian](https://geez-learning.vercel.app/)
-**Problem:** No interactive platform exists to learn the Ge'ez script used in Ethiopian Orthodox liturgy.  
-**Solution:** Full curriculum with character grids, spaced repetition quizzes, and an admin CMS for content management.  
-`Next.js · MongoDB · NextAuth · Admin dashboard`
-
-#### 📚 [NextJemari](https://next-jemari-sl3l.vercel.app/)
-**Problem:** Developer knowledge-sharing platforms don't support structured MDX authoring well.  
-**Solution:** Production-deployed platform with MDX authoring, versioned content, full-text search, and role-based access.  
-`Next.js · PostgreSQL · Prisma · MDX`
-
-#### 📖 [eBook Library](https://ebook-axds.vercel.app/) &nbsp;|&nbsp; [🕊️ Canaan Hub](https://kenean-2pmd.vercel.app/) &nbsp;|&nbsp; [🏢 Enese Trading](https://enese-trading.vercel.app/)
-Additional production deployments — SSR-optimized reading platform, faith learning hub with video streaming, and an SEO-optimized business site.
-
----
-
-### Stack
+### 🛠 Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -71,9 +39,34 @@ Additional production deployments — SSR-optimized reading platform, faith lear
 
 ---
 
-### Currently
+### 📂 Featured projects
 
-CS student at Addis Ababa University, graduating 2026.  
-Open to full-time engineering roles and meaningful collaborations — especially in AI, edtech, and African language technology.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🤖 Wegie AI](https://wegie-ai-fz1a.vercel.app/) | AI-powered Amharic subtitle generator for videos & audio | Next.js · Python · AI |
+| [📚 NextJemari](https://next-jemari-sl3l.vercel.app/) | Full-stack MDX knowledge-sharing platform for developers | Next.js · PostgreSQL · Prisma |
+| [🏛️ Adwa AI](https://adwa-gamma.vercel.app/) | RAG-powered history platform — chat with Emperor Menelik II | React · TypeScript · Groq AI |
+| [🔤 Agazian](https://geez-learning.vercel.app/) | Interactive Ge'ez learning platform with quiz & admin dashboard | Next.js · MongoDB |
+| [📖 eBook Library](https://ebook-axds.vercel.app/) | Modern SSR-optimized eBook reading platform | Next.js · SSR |
+| [🕊️ Canaan Hub](https://kenean-2pmd.vercel.app/) | Faith learning hub with video lessons and community Q&A | Next.js · Video Streaming |
+| [🏢 Enese Trading](https://enese-trading.vercel.app/) | Professional business website with SEO optimization | Next.js · Tailwind CSS |
 
-> *Building the digital infrastructure that African languages deserve.*
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elsh1923&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh1923&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsh1923&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=38bdf8&fire=38bdf8&currStreakLabel=a78bfa" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is the bridge between imagination and reality."</i><br/>
+  — Elshaday Dagne
+</p>
