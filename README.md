@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Elshaday  👩‍💻</h1>
+<h1 align="center">Hi, I'm Elshaday  👩💻</h1>
 
 <p align="center">
   <b>Full Stack Developer · Next.js · React · Node.js</b><br/>
@@ -56,12 +56,12 @@ Building modern, responsive, and scalable web applications — with a focus on E
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsh1923&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh1923&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=elsh1923&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=elsh1923&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsh1923&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=38bdf8&fire=38bdf8&currStreakLabel=a78bfa" />
+  <img src="https://streak-stats.demolab.com/?user=elsh1923&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=38bdf8&fire=38bdf8&currStreakLabel=a78bfa" />
 </p>
 
 ---
